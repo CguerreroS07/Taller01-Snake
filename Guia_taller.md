@@ -278,38 +278,43 @@ Cuando todos hayan subido sus cambios, el líder debe:
 
 ## Integrantes y roles
 
-Complete esta tabla al final del taller.
 
 | Rol | Nombre | Usuario de GitHub | Commit principal |
 | --- | --- | --- | --- |
-| Líder |  |  |  |
-| Integrante 1 |  |  |  |
-| Integrante 2 |  |  |  |
-| Integrante 3 |  |  |  |
-| Integrante 4 |  |  |  |
+| Líder | Carlos Guerrero | CguerreroS07 | personalizar botón y colores principales  |
+| Integrante 1 | Victor Ponce | VicPon76 | Cambiar el nombre del boton y el color |
+| Integrante 2 | Ashley Recalde | AshleyR012 | cambiar botón y colector de gold  |
+
 
 ## Evidencias
 
-Coloque las capturas dentro de una carpeta llamada `capturas/` y enláselas en esta sección.
-
-Ejemplo:
 
 ```markdown
 ### Líder
 
 Push exitoso:
 
-![Push exitoso del líder](capturas/lider_push_exitoso.png)
+![Push exitoso del líder](Capturas/Lider_Push.png)
 
 ### Integrante 1
 
 Error antes de resolver conflicto:
 
-![Error Integrante 1](capturas/integrante1_error.png)
+![Error Integrante 1](Capturas/Integrante1_error.jpeg)
 
 Push exitoso después de resolver conflicto:
 
-![Push exitoso Integrante 1](capturas/integrante1_push_exitoso.png)
+![Push exitoso Integrante 1](Capturas/Integrante1_solucion.jpeg)
+
+### Integrante 2
+
+Error antes de resolver conflicto:
+
+![Error Integrante 2](Capturas/Intengrante_2error.jpeg)
+
+Push exitoso después de resolver conflicto:
+
+![Push exitoso Integrante 2](Capturas/Integrante2_solucion.jpeg)
 ```
 
 ## Recomendaciones para resolver conflictos
