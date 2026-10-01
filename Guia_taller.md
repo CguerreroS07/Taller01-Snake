@@ -289,7 +289,7 @@ Cuando todos hayan subido sus cambios, el líder debe:
 ## Evidencias
 
 
-```markdown
+
 ### Líder
 
 Push exitoso:
@@ -315,7 +315,7 @@ Error antes de resolver conflicto:
 Push exitoso después de resolver conflicto:
 
 ![Push exitoso Integrante 2](Capturas/Integrante2_solucion.jpeg)
-```
+
 
 ## Recomendaciones para resolver conflictos
 
